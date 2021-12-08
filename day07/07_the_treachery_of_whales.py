@@ -40,6 +40,7 @@ def second_task(file_path):
 
 
 if __name__ == '__main__':
+    # TODO A kind-of linear regression might be better?
     FILE_PATH = 'input.txt'
     res_1 = first_task(FILE_PATH)
     print(res_1)
